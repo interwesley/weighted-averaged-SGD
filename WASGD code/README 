@@ -1,0 +1,12 @@
+This file documents the code for replication of experiment results.
+The following files are present.
+
+mse replication.R: experiments on mse of mean estimation model and squared loss model
+
+normal plot.R: experiments on asymptotic normality of different weighted averaged SGD
+
+plots of different weights.R: numerical studies on visualizing different weighting schemes for the expectile regression model
+
+high dimensional MSE.R: experiments on d=100 and d=500 linear regression
+
+coverage.ipynb: experiments on the empirical coverage of confidence intervals
